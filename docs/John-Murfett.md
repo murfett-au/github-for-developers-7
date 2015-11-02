@@ -2,4 +2,4 @@
 * From: Melbourne, Australia
 * Favorite Food: Chocolate
 * Favorite color: Blue
-* Hobby: Model Railways
+* Hobby: Model Railway
