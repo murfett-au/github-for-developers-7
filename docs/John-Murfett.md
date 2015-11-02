@@ -3,3 +3,4 @@
 * Favorite Food: Chocolate
 * Favorite color: Blue
 * Hobby: Model Railway
+* Team: Geelong
